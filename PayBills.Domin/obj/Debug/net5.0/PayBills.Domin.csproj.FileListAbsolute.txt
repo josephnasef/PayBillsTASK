@@ -1,0 +1,15 @@
+F:\project\New task\PayBills\PayBills.Domin\obj\Debug\net5.0\PayBills.Domin.csproj.AssemblyReference.cache
+F:\project\New task\PayBills\PayBills.Domin\obj\Debug\net5.0\PayBills.Domin.GeneratedMSBuildEditorConfig.editorconfig
+F:\project\New task\PayBills\PayBills.Domin\obj\Debug\net5.0\PayBills.Domin.AssemblyInfoInputs.cache
+F:\project\New task\PayBills\PayBills.Domin\obj\Debug\net5.0\PayBills.Domin.AssemblyInfo.cs
+F:\project\New task\PayBills\PayBills.Domin\obj\Debug\net5.0\PayBills.Domin.csproj.CoreCompileInputs.cache
+F:\project\New task\PayBills\PayBills.Domin\bin\Debug\net5.0\PayBills.Domin.deps.json
+F:\project\New task\PayBills\PayBills.Domin\bin\Debug\net5.0\PayBills.Domin.runtimeconfig.json
+F:\project\New task\PayBills\PayBills.Domin\bin\Debug\net5.0\PayBills.Domin.runtimeconfig.dev.json
+F:\project\New task\PayBills\PayBills.Domin\bin\Debug\net5.0\PayBills.Domin.dll
+F:\project\New task\PayBills\PayBills.Domin\bin\Debug\net5.0\PayBills.Domin.pdb
+F:\project\New task\PayBills\PayBills.Domin\obj\Debug\net5.0\PayBills.Domin.dll
+F:\project\New task\PayBills\PayBills.Domin\obj\Debug\net5.0\refint\PayBills.Domin.dll
+F:\project\New task\PayBills\PayBills.Domin\obj\Debug\net5.0\PayBills.Domin.pdb
+F:\project\New task\PayBills\PayBills.Domin\obj\Debug\net5.0\PayBills.Domin.genruntimeconfig.cache
+F:\project\New task\PayBills\PayBills.Domin\obj\Debug\net5.0\ref\PayBills.Domin.dll

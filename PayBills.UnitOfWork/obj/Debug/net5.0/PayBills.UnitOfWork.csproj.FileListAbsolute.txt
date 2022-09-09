@@ -1,0 +1,12 @@
+F:\project\New task\PayBills\PayBills.UnitOfWork\bin\Debug\net5.0\PayBills.UnitOfWork.deps.json
+F:\project\New task\PayBills\PayBills.UnitOfWork\bin\Debug\net5.0\PayBills.UnitOfWork.dll
+F:\project\New task\PayBills\PayBills.UnitOfWork\bin\Debug\net5.0\PayBills.UnitOfWork.pdb
+F:\project\New task\PayBills\PayBills.UnitOfWork\obj\Debug\net5.0\PayBills.UnitOfWork.csproj.AssemblyReference.cache
+F:\project\New task\PayBills\PayBills.UnitOfWork\obj\Debug\net5.0\PayBills.UnitOfWork.GeneratedMSBuildEditorConfig.editorconfig
+F:\project\New task\PayBills\PayBills.UnitOfWork\obj\Debug\net5.0\PayBills.UnitOfWork.AssemblyInfoInputs.cache
+F:\project\New task\PayBills\PayBills.UnitOfWork\obj\Debug\net5.0\PayBills.UnitOfWork.AssemblyInfo.cs
+F:\project\New task\PayBills\PayBills.UnitOfWork\obj\Debug\net5.0\PayBills.UnitOfWork.csproj.CoreCompileInputs.cache
+F:\project\New task\PayBills\PayBills.UnitOfWork\obj\Debug\net5.0\PayBills.UnitOfWork.dll
+F:\project\New task\PayBills\PayBills.UnitOfWork\obj\Debug\net5.0\refint\PayBills.UnitOfWork.dll
+F:\project\New task\PayBills\PayBills.UnitOfWork\obj\Debug\net5.0\PayBills.UnitOfWork.pdb
+F:\project\New task\PayBills\PayBills.UnitOfWork\obj\Debug\net5.0\ref\PayBills.UnitOfWork.dll

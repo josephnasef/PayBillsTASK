@@ -1,0 +1,12 @@
+F:\project\New task\PayBills\PayBills.DTO\bin\Debug\net5.0\PayBills.DTO.deps.json
+F:\project\New task\PayBills\PayBills.DTO\bin\Debug\net5.0\PayBills.DTO.dll
+F:\project\New task\PayBills\PayBills.DTO\bin\Debug\net5.0\PayBills.DTO.pdb
+F:\project\New task\PayBills\PayBills.DTO\obj\Debug\net5.0\PayBills.DTO.csproj.AssemblyReference.cache
+F:\project\New task\PayBills\PayBills.DTO\obj\Debug\net5.0\PayBills.DTO.GeneratedMSBuildEditorConfig.editorconfig
+F:\project\New task\PayBills\PayBills.DTO\obj\Debug\net5.0\PayBills.DTO.AssemblyInfoInputs.cache
+F:\project\New task\PayBills\PayBills.DTO\obj\Debug\net5.0\PayBills.DTO.AssemblyInfo.cs
+F:\project\New task\PayBills\PayBills.DTO\obj\Debug\net5.0\PayBills.DTO.csproj.CoreCompileInputs.cache
+F:\project\New task\PayBills\PayBills.DTO\obj\Debug\net5.0\PayBills.DTO.dll
+F:\project\New task\PayBills\PayBills.DTO\obj\Debug\net5.0\refint\PayBills.DTO.dll
+F:\project\New task\PayBills\PayBills.DTO\obj\Debug\net5.0\PayBills.DTO.pdb
+F:\project\New task\PayBills\PayBills.DTO\obj\Debug\net5.0\ref\PayBills.DTO.dll
